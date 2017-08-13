@@ -1,0 +1,6 @@
+<?php
+
+
+echo '<script>window.location="question.php"</script>';
+
+?>
